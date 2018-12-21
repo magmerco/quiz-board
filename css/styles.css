@@ -42,7 +42,7 @@ button {
 
 #marks {
     margin-left: 20%;
-    border: 1px solid springgreen;
+    /* border: 1px solid springgreen; */
 }
 
 tt,
@@ -53,5 +53,5 @@ samp {
 }
 
 .result {
-    display: none
+    display: none;
 }
