@@ -12,6 +12,10 @@ Install quiz-board-js by cloning this repository:
 https://github.com/magmerco/quiz-board.git,
 the link to live sit of GitHub pages:
 https://github.com/magmerco/quiz-board/index.html
+## BDD
+* You must have atleast four question and multiple answer for each
+* the user must answer all the question given
+* U can not submit the form without answering all the question
 ## Technologies Used
 - HTML
 - JavaScript
