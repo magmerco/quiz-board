@@ -25,7 +25,7 @@ ol li {
 }
 
 button {
-    background-color: skyblue;
+    background-color: yellowgreen;
     /* Green */
     border: none;
     color: white;
@@ -41,8 +41,8 @@ button {
 }
 
 #marks {
-    margin-left: 40%;
-    border: 3px solid blue;
+    margin-left: 20%;
+    /* border: 3px solid springgreen; */
 }
 
 tt,
