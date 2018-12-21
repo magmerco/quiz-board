@@ -43,8 +43,11 @@ button {
 }
 
 #marks {
+    margin-right: 20%;
     margin-left: 20%;
     padding: 2px ;
+    background-color: cadetblue;
+    text-align: center;
     /* border: 1px solid springgreen; */
 }
 
