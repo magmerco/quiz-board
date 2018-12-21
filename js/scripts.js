@@ -7,7 +7,6 @@ function getCheckedValue(radioName) {
         if (radios[y].checked) return radios[y].value; // return the checked value
     }
 }
-
 function getScore() {
     var score = 0;
     debugger
@@ -15,7 +14,6 @@ function getScore() {
         if (getCheckedValue("question" + i) === answers[i]) score += 1; // increment only
     return score;
 }
-
 $(document).ready(function() {
     $('form').show()
     $('.result').hide()
@@ -26,9 +24,6 @@ $(document).ready(function() {
         returnScore();
     })
 })
-
-
-
 function returnScore() {
     // alert("Your score is " + getScore() + "/" + tot);
     document.getElementById('marks').innerHTML = "Your score is " + "<br>" + getScore() + "/" + tot;

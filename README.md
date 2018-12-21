@@ -1,5 +1,5 @@
 # Quiz-Board
-#### The goal of this project is to create a project that allows the user to answer questions from a multiple choice questions that you would have created.        Friday,21st december 2018
+### The goal of this project is to create a project that allows the user to answer questions from a multiple choice questions that you would have created.        Friday,21st december 2018
 #### By **Zaninka Magali**
 ## Description
 This project is about creating a quiz board for my high school,which will allow the user to answer questions from a multiple choice questions that i created.
@@ -17,9 +17,12 @@ https://github.com/magmerco/quiz-board/index.html
 * the user must answer all the question given
 * U can not submit the form without answering all the question
 ## Technologies Used
-- HTML
-- JavaScript
-- CSS
+1. HTML
+2. JavaScript
+    - jquery
+3. CSS
+    - bootstrap.css
+    - styles.css 
 ## Support and contact details
 If you have some issues running this application,contact me at magali@moringaschool.slack.com
 ### License
