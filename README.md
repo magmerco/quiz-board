@@ -1,5 +1,6 @@
 # Quiz-Board
-### The goal of this project is to create a project that allows the user to answer questions from a multiple choice questions that you would have created.        Friday,21st december 2018
+### The goal of this project is to create a project that allows the user to answer questions from a multiple choice questions that you would have created.        
+## Friday,21st december 2018
 #### By **Zaninka Magali**
 ## Description
 This project is about creating a quiz board for my high school,which will allow the user to answer questions from a multiple choice questions that i created.
