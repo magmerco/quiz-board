@@ -9,10 +9,10 @@ This project is about creating a quiz board for my high school,which will allow 
 * After filling up the form, the form should hide and then display the score.
 * Each question should have a scope point allocated to it.
 ## Setup/Installation Requirements
-Install quiz-board-js by cloning this repository:
-https://github.com/magmerco/quiz-board.git,
-the link to live sit of GitHub pages:
-https://github.com/magmerco/quiz-board/index.html
+* _Install quiz-board-js by cloning this repository:_
+* _https://github.com/magmerco/quiz-board.git_
+* _https://magmerco.github.io/quiz-board/_
+
 ## BDD
 * You must have atleast four question and multiple answer for each
 * the user must answer all the question given
